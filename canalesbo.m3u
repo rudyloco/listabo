@@ -13,6 +13,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png",RED BOLIVISION HD (SC) 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg",RED GIGAVISION HD (SC) 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png", CRYSTAL (SC)
 http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
 
@@ -36,3 +39,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fXHBVqT/Tvlatina.png", TV LATINA (MONTERO)
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/9/846/png-transparent-television-show-television-channel-news-broadcasting-red-reel-miscellaneous-television-logo.png", TDT HD (CBBA)
+https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1650937437
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5xCbbZ/IMG-20210731-130740.png", MEGATV (BENI)
+https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
