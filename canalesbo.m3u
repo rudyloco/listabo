@@ -45,3 +45,24 @@ https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1650937437
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5xCbbZ/IMG-20210731-130740.png", MEGATV (BENI)
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmdsmcs/BOPLUS-TV.jpg",BOPLUS TV HD
+https://servilive.com:3342/live/boplustvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgsD31N/MARKVISION-HD.jpg", MARKVISION TV HD
+https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w948858700.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg", F10 HD (EL ALTO)
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg", NET TV HD (ARGENTINA)
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg", TV PERU HD (PERU)
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mchcCP/PLANETA-KIDS-HD.jpg", PLANETA TV KIDS HD (INFANTILES)
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w348554768.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg", TELE RITMO HD (MUSICAL)
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
