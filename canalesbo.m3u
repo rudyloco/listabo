@@ -26,10 +26,10 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO (SC) 
-https://tvdatta.com:3434/live/neotvlive.m3u8
+https://vdo.streams.ovh:3702/live/neotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 2(SC) 
-https://tvdatta.com:3434/hybrid/play.m3u8
+https://vdo.streams.ovh:3702/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 3(SC) 
 http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
