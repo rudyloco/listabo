@@ -76,6 +76,9 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image86573092547.jpg", DOBLE C TV (PERU)
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
+#EXTINF:-1 tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/cropped-logo.png", OK TEVE (PERU)
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 4(SC) 
 https://0af2c9858220.entrypoint.cloud.wowza.com/app-5037T81V/ngrp:a9c01f6a_all/playlist.m3u8
 
