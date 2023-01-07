@@ -69,3 +69,9 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 4(SC) 
 https://0af2c9858220.entrypoint.cloud.wowza.com/app-5037T81V/ngrp:a9c01f6a_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 5(SC) 
+https://vdo.panelchs.com:3435/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 6(SC) 
+https://0af2c9858220.entrypoint.cloud.wowza.com/app-5037T81V/ngrp:a9c01f6a_all/playlist.m3u8
