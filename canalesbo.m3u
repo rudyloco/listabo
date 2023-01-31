@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg", UNITEL HD (SC) 
+#EXTINF:-1 tvg-logo="https://estaticos-television.unitel.bo/news-portlet/getogimage/af135937-f63d-46b9-a8d3-52204da0ca0b.jpg", UNITEL HD (SC) 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png",RED UNO HD (SC) 
@@ -26,10 +26,10 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO (SC) 
-https://vdo.streams.ovh:3702/live/neotvlive.m3u8
+https://vdo.panelchs.com:3146/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 2(SC) 
-https://vdo.streams.ovh:3702/hybrid/play.m3u8
+https://vdo.panelchs.com:3146/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 3(SC) 
 http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
@@ -80,10 +80,10 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 4(SC) 
-https://vdo.panelchs.com:3146/multi_web/play.m3u8
+https://vdo.panelchs.com:3146/multi_web/play_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 5(SC) 
-https://vdo.panelchs.com:3146/stream/play.m3u8
+https://vdo.panelchs.com:3146/multi_web/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 6(SC) 
-https://vdo.panelchs.com:3146/multi_live/play.m3u8
+https://vdo.panelchs.com:3146/hybrid/play.m3u8
