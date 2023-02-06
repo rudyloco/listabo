@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://estaticos-television.unitel.bo/news-portlet/getogimage/af135937-f63d-46b9-a8d3-52204da0ca0b.jpg", UNITEL HD (SC) 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg", UNITEL HD (SC) 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png",RED UNO HD (SC) 
@@ -25,13 +25,13 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sntvbolivia.com/wp-content/uploads/2019/12/LOGO-SN-TV-HD.png", SNTV(SC) 
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO (SC) 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO (SC) 
 https://vdo.panelchs.com:3146/multi_live/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 2(SC) 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 2(SC) 
 https://vdo.panelchs.com:3146/multi_web/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 3(SC) 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 3(SC) 
 http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png", ATB HD (SC) 
