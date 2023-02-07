@@ -82,6 +82,9 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/cropped-logo.png", OK TEVE (PERU)
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png", OROMAR TV HD (ECUADOR)
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 4(SC) 
 https://vdo.panelchs.com:3146/multi_web/play_720.m3u8
 
