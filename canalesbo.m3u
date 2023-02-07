@@ -55,6 +55,9 @@ https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w948858700.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg", F10 HD (EL ALTO)
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/828-8283014_eltrece-logo-eltrece-logo-el-trece.png", EL TRECE HD (ARGENTINA)
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg", NET TV HD (ARGENTINA)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
