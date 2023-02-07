@@ -90,3 +90,6 @@ https://vdo.panelchs.com:3146/multi_live/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 6(SC) 
 https://vdo.panelchs.com:3146/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/12/22/74/122274696f1c7a37438e3452c79fb81d.jpg", LOS SIMPSONS 24 HORAS(SC) 
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
