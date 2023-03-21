@@ -92,7 +92,7 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 http://vdo.panelchs.com/p/3146/multi_web/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 5(SC) 
-http://vdo.panelchs.com/p/3146/multi_live/play_720.m3u8
+https://vdo.panelchs.com:3146/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 6(SC) 
 http://vdo.panelchs.com/p/3146/hybrid/play.m3u8
