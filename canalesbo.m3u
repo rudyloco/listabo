@@ -26,10 +26,10 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO (SC) 
-http://vdo.panelchs.com/p/3146/live/neotvlive.m3u8
+http://vdo.panelchs.com/p/3418/live/neotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 2(SC) 
-http://vdo.panelchs.com/p/3146/stream/play.m3u8
+http://vdo.panelchs.com/p/3418/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 3(SC) 
 http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
@@ -89,13 +89,13 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 4(SC) 
-http://vdo.panelchs.com/p/3146/multi_web/play_720.m3u8
+http://vdo.panelchs.com/p/3418/multi_web/play_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 5(SC) 
-https://vdo.panelchs.com:3146/multi_web/play.m3u8
+https://vdo.panelchs.com:3418/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-500X500.png", NEO TV HD MINERO 6(SC) 
-http://vdo.panelchs.com/p/3146/hybrid/play.m3u8
+http://vdo.panelchs.com/p/3418/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/12/22/74/122274696f1c7a37438e3452c79fb81d.jpg", LOS SIMPSONS 24 HORAS(SC) 
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
