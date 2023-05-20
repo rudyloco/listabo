@@ -91,3 +91,9 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/12/22/74/122274696f1c7a37438e3452c79fb81d.jpg", LOS SIMPSONS 24 HORAS(SC) 
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 4(SC) 
+https://tvservices.fullhd-streaming.com/p/3420/live/neotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 5(SC) 
+http://tvservices.fullhd-streaming.com/p/3420/live/neotvlive.m3u8
