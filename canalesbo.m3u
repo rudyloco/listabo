@@ -22,7 +22,7 @@ http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/9/846/png-transparent-television-show-television-channel-news-broadcasting-red-reel-miscellaneous-television-logo.png", TELEESTRELLA (LP)
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sntvbolivia.com/wp-content/uploads/2019/12/LOGO-SN-TV-HD.png", SNTV(SC) 
+#EXTINF:-1 tvg-logo="http://www.sntvbolivia.com/wp-content/uploads/2019/12/LOGO-SN-TV-HD.png", SNTV (SC) 
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO (SC) 
@@ -37,8 +37,14 @@ http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png", ATB HD (SC) 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv2qgyY/btv.jpg", BOLIVIA TV HD (SC) 
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fXHBVqT/Tvlatina.png", TV LATINA (MONTERO)
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwtRnjN/DEPORTE-TOTAL-PLAY-HD.jpg", DEPORTE TOTAL HD
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/9/846/png-transparent-television-show-television-channel-news-broadcasting-red-reel-miscellaneous-television-logo.png", TDT HD (CBBA)
 https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1650937437
@@ -46,8 +52,14 @@ https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1650937437
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5xCbbZ/IMG-20210731-130740.png", MEGATV (BENI)
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rmdsmcs/BOPLUS-TV.jpg",BOPLUS TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmdsmcs/BOPLUS-TV.jpg", BOPLUS TV HD
 https://servilive.com:3342/live/boplustvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg", SEO TV HD
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg", SEO TV KIDS HD
+https://live.seo.tv.bo/live/2SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgsD31N/MARKVISION-HD.jpg", MARKVISION TV HD
 https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w948858700.m3u8
@@ -58,8 +70,14 @@ https://video.live.com.bo:3253/live/f10hdlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/828-8283014_eltrece-logo-eltrece-logo-el-trece.png", EL TRECE HD (ARGENTINA)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcZb31N/el-nueve-hd.jpg", EL NUEVE HD (ARGENTINA)
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2fa04169-2699-4def-b274-0befed696946/4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg", NET TV HD (ARGENTINA)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fxqfWs9/atv-pe-hd.jpg", ATV HD (PERU)
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg", TV PERU HD (PERU)
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
@@ -88,12 +106,11 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png", OROMAR TV HD (ECUADOR)
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CbpQZ3Y/wow-tv-hd.jpg", WOW TV HD
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w494685405_b2000000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/12/22/74/122274696f1c7a37438e3452c79fb81d.jpg", LOS SIMPSONS 24 HORAS(SC) 
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 4(SC) 
-https://tvservices.fullhd-streaming.com/p/3420/live/neotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 5(SC) 
-http://tvservices.fullhd-streaming.com/p/3420/live/neotvlive.m3u8
+
