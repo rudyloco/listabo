@@ -25,13 +25,13 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.sntvbolivia.com/wp-content/uploads/2019/12/LOGO-SN-TV-HD.png", SNTV (SC) 
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO (SC) 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD (SC) 
 http://vdo.panelchs.com/p/3418/live/neotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 2(SC) 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV MUSICA HD (SC) 
 http://vdo.panelchs.com/p/3418/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD MINERO 3(SC) 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD BO (SC) 
 http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png", ATB HD (SC) 
@@ -109,6 +109,17 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbpQZ3Y/wow-tv-hd.jpg", WOW TV HD
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w494685405_b2000000_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV MUSICA MEDIA (SC) 
+http://tv1.mediacp.eu/p/3244/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV MEDIA (SC) 
+http://tv1.mediacp.eu/p/3244/live/vpbdugpplive.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV MUSICA SACNET (SC) 
+http://vdo.voxhdnet.com/p/3915/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV SACNET (SC) 
+http://vdo.voxhdnet.com/p/3915/live/oeguuwdplive.m3u8
 
 
 
