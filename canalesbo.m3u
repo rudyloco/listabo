@@ -121,5 +121,9 @@ http://vdo.voxhdnet.com/p/3915/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV SACNET (SC) 
 http://vdo.ssl-stream.com/p/3782/live/testuserlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV MUSICA SSL (SC) 
+http://vdo.ssl-stream.com/p/3782/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV SSL (SC) 
+http://vdo.ssl-stream.com/p/3782/live/testuserlive.m3u8
 
