@@ -28,9 +28,6 @@ http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD (SC) 
 http://tv1.mediacp.eu/p/3661/live/rlbpwxvhlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV MUSICA HD (SC) 
-http://vdo.ssl-stream.com/p/3782/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD BO (SC) 
 http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
 
@@ -81,6 +78,12 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg", TV PERU HD (PERU)
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD (MEXICO)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/619apfg5DDL.png", DW ESPAÑOL (INT) 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mchcCP/PLANETA-KIDS-HD.jpg", PLANETA TV KIDS HD (INFANTILES)
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w348554768.m3u8
