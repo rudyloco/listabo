@@ -19,10 +19,10 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f
 #EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png", CRYSTAL (SC)
 http://america.tucableip.com/bolivia/cristaltv/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/9/846/png-transparent-television-show-television-channel-news-broadcasting-red-reel-miscellaneous-television-logo.png", TELEESTRELLA (LP)
-http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://f9s6p8t8.hostrycdn.com/wp-content/uploads/2022/09/La-red-nacional-DTV-invita-a-los-productores-independientes-enviar.jpg", RED DTV (SC)
+https://master.tucableip.com/dtvsc/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sntvbolivia.com/wp-content/uploads/2019/12/LOGO-SN-TV-HD.png", SNTV (SC) 
+#EXTINF:-1 tvg-logo="https://web1.tikilive.com/public/files/shows/154/154473/43941-294x165-FFFFFF.jpg", SNTV (SC) 
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD (SC) 
@@ -46,7 +46,7 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wwtRnjN/DEPORTE-TOTAL-PLAY-HD.jpg", DEPORTE TOTAL HD
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/9/846/png-transparent-television-show-television-channel-news-broadcasting-red-reel-miscellaneous-television-logo.png", TDT HD (CBBA)
+#EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png", TDT HD (CBBA)
 https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1650937437
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F5xCbbZ/IMG-20210731-130740.png", MEGATV (BENI)
@@ -109,9 +109,12 @@ https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbpQZ3Y/wow-tv-hd.jpg", WOW TV HD
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w494685405_b2000000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV MUSICA SSL (SC) 
-https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/06/29/Palmeiras_BRA_vs_Bolivar__20230629_1688077544023/cmaf-cenc-ctr-1200K/1200_complete.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sport1_hd.svg/764px-Sport1_hd.svg.png", ESPN (PREMIUM) 
+http://54.39.51.30:25461/c5alcorta/MigueAlcorta/12671
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV SSL (SC) 
-http://vdo.ssl-stream.com/p/3782/live/testuserlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sport1_hd.svg/764px-Sport1_hd.svg.png", TNT SPORTS (ARG) 
+http://54.39.51.30:25461/c5alcorta/MigueAlcorta/19496
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sport1_hd.svg/764px-Sport1_hd.svg.png", TYC SPORTS (ARG) 
+http://54.39.51.30:25461/c5alcorta/MigueAlcorta/12027
 
