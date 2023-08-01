@@ -25,10 +25,10 @@ https://master.tucableip.com/dtvsc/video.m3u8
 #EXTINF:-1 tvg-logo="https://web1.tikilive.com/public/files/shows/154/154473/43941-294x165-FFFFFF.jpg", SNTV (SC) 
 http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD (SC) 
+#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD (SC) 
 http://tv1.mediacp.eu/p/3661/live/rlbpwxvhlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvbolivia.com/wp-content/uploads/2023/02/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD BO (SC) 
+#EXTINF:-1 tvg-logo="hhttps://neotvbolivia.com/wp-content/uploads/2022/10/LOGO-NEO-TV-2023-IPTV.png", NEO TV HD BO (SC) 
 http://cdnhd.iblups.com/hls/dv7jjlfcks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/11/logoatb.png", ATB HD (SC) 
