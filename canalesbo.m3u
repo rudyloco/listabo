@@ -109,6 +109,7 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png", OROMAR TV HD (ECUADOR)
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbpQZ3Y/wow-tv-hd.jpg", WOW TV HD
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w494685405_b2000000_slen.m3u8
 
