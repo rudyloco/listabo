@@ -106,6 +106,9 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/cropped-logo.png", OK TEVE (PERU)
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geniostv.pe/wp-content/uploads/elementor/thumbs/logo1-owwv8s2bj3n5pt0mp3hyr19gl2fgmiryif81auhse8.png", GENIOS TV (PERU)
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png", OROMAR TV HD (ECUADOR)
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
